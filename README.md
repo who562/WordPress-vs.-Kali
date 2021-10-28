@@ -50,7 +50,8 @@ Time spent: 5 hours spent in total
     - Tested in version:4.0
     - Fixed in version: 5.1.2
   - [X] GIF Walkthrough: 
-   <img src=xssmed.gif />
+   <img src=XSSmed.gif />
+   
   - [X] Steps to recreate:Enter the admin console, create or edit a page.
         <img src=xssmed1.jpg />
         
