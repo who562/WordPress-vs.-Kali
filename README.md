@@ -30,20 +30,20 @@ Time spent: 5 hours spent in total
     - Tested in version:4.0
     - Fixed in version: 
   - [X] GIF Walkthrough: 
-           <img src=UserEnumeration.gif />
+           <img src=User Enumeration.gif />
   - [X] Steps to recreate: 
              Enter the login page.
-             <img src=UserEnumeration.jpg/>
+             <img src=User Enumeration.jpg/>
         
       enter admin as username and a random password.
-        <img src=UserEnumeration2.jpg/>
+        <img src=User Enumeration2.jpg/>
         
         
       if the user exist, Wordpress word give an error message for incorrect password.
-       <img src=UserEnumeration3.jpg/>
+       <img src=User Enumeration3.jpg/>
        
        if the user does not exist, Wordpress word give an error message for invalid username.
-         <img src=UserEnumeration4.jpg/>
+         <img src=User Enumeration4.jpg/>
 ### 3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
