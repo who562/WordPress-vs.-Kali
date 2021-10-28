@@ -58,7 +58,7 @@ Time spent: 5 hours spent in total
        click add media
        <img src=xssmed2.jpg />
         
-       choice a image and add the xss script to the description. Then, change the link page to attachment page
+       Choice an image and add the XSS script to the description. Then, change the link page to attachment page.
        <img src=xssmed3.jpg />
        
        Post and then view the page. click the image. 
