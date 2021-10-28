@@ -22,17 +22,28 @@ Time spent: 5 hours spent in total
              
        Post the comment and enjoy 
              <img src=xss3.jpg />
-  - [ ] Affected source code:
+  - [X] Affected source code:
            <img src=xsscode.jpg />
-### 2. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+### 2. (Required) User Enumeration
+  - [X] Summary: 
+    - Vulnerability types:User Enumeration
+    - Tested in version:4.0
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  - [X] GIF Walkthrough: 
+           <img src=UserEnumeration.gif />
+  - [X] Steps to recreate: 
+             Enter the login page.
+             <img src=UserEnumeration.jpg/>
+        
+      enter admin as username and a random password.
+        <img src=UserEnumeration2.jpg/>
+        
+        
+      if the user exist, Wordpress word give an error message for incorrect password.
+       <img src=UserEnumeration3.jpg/>
+       
+       if the user does not exist, Wordpress word give an error message for invalid username.
+         <img src=UserEnumeration4.jpg/>
 ### 3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
