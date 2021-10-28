@@ -87,7 +87,7 @@ GIFs created with [Screentogif](https://www.screentogif.com/).
 
 Describe any challenges encountered while doing the work
 
-- Bitdefender and Microsoft antivirus were blocking payloads.
+- Bitdefender and Microsoft antivirus was blocking payloads.
 
 ## License
 
