@@ -12,7 +12,7 @@ Time spent: 5 hours spent in total
     - Tested in version: 4.0
     - Fixed in version: 5.1.1
   - [ ] GIF Walkthrough: 
-       <img src=https://github.com/who909/WordPress-vs.-Kali/blob/main/XSS.gifXSS.gif />
+       <img src=XSS.gif />
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
