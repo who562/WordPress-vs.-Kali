@@ -11,9 +11,17 @@ Time spent: 5 hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.0
     - Fixed in version: 5.1.1
-  - [ ] GIF Walkthrough: 
+  - [X] GIF Walkthrough: 
        <img src=XSS.gif />
-  - [ ] Steps to recreate: 
+  - [X] Steps to recreate: 
+     login and enter a page
+             <img src=xss1.jpg />
+             
+     enter the script in the comment section
+             <img src=xss2.jpg />
+             
+       Post the comment and enjoy 
+             <img src=xss3.jpg />
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 ### 2. (Required) Vulnerability Name or ID
