@@ -33,17 +33,17 @@ Time spent: 5 hours spent in total
            <img src=https://github.com/who909/WordPress-vs.-Kali/blob/baa3924833f64f5de23616c05b5bb381471c76ae/User%20Enumeration.gif />
   - [X] Steps to recreate: 
              Enter the login page.
-             <img src=User Enumeration.jpg/>
+             <img src=https://github.com/who909/WordPress-vs.-Kali/blob/b1f11febafbe1c45d0433f56aa907104ca23e126/User%20Enumeration.jpg/>
         
       enter admin as username and a random password.
-        <img src=User Enumeration2.jpg/>
+        <img src=https://github.com/who909/WordPress-vs.-Kali/blob/b1f11febafbe1c45d0433f56aa907104ca23e126/User%20Enumeration2.jpg/>
         
         
       if the user exist, Wordpress word give an error message for incorrect password.
-       <img src=User Enumeration3.jpg/>
+       <img src=https://github.com/who909/WordPress-vs.-Kali/blob/b1f11febafbe1c45d0433f56aa907104ca23e126/User%20Enumeration3.jpg/>
        
        if the user does not exist, Wordpress word give an error message for invalid username.
-         <img src=User Enumeration4.jpg/>
+         <img src=https://github.com/who909/WordPress-vs.-Kali/blob/b1f11febafbe1c45d0433f56aa907104ca23e126/User%20Enumeration4.jpg/>
 ### 3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
