@@ -39,10 +39,10 @@ Time spent: 5 hours spent in total
         <img src=https://github.com/who909/WordPress-vs.-Kali/blob/b1f11febafbe1c45d0433f56aa907104ca23e126/User%20Enumeration2.jpg/>
         
         
-      if the user exist, Wordpress word give an error message for incorrect password.
+      If the user exists, WordPress word gives an error message for an incorrect password. 
        <img src=https://github.com/who909/WordPress-vs.-Kali/blob/b1f11febafbe1c45d0433f56aa907104ca23e126/User%20Enumeration3.jpg/>
        
-       if the user does not exist, Wordpress word give an error message for invalid username.
+       If the user does not exist, WordPress word gives an error message for an invalid username.
          <img src=https://github.com/who909/WordPress-vs.-Kali/blob/b1f11febafbe1c45d0433f56aa907104ca23e126/User%20Enumeration4.jpg/>
 ### 3. (Required) XSS media
   - [X] Summary: XSS media
@@ -51,8 +51,7 @@ Time spent: 5 hours spent in total
     - Fixed in version: 5.1.2
   - [X] GIF Walkthrough: 
    <img src=xssmed.gif />
-  - [X] Steps to recreate: 
-       Enter the admin console, create or edit a page.
+  - [X] Steps to recreate:Enter the admin console, create or edit a page.
         <img src=xssmed1.jpg />
         
        click add media
