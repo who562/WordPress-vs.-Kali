@@ -87,7 +87,8 @@ GIFs created with [Screentogif](https://www.screentogif.com/).
 
 Describe any challenges encountered while doing the work
 
-- Bitdefender and Microsoft antivirus was blocking payloads.
+- Bitdefender and Microsoft antivirus was blocking payloads, even after disabling them.
+- I did not have permission to view plugins or access to PHPmyadmin database.
 
 ## License
 
