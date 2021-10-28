@@ -30,7 +30,7 @@ Time spent: 5 hours spent in total
     - Tested in version:4.0
     - Fixed in version: 
   - [X] GIF Walkthrough: 
-           <img src=User Enumeration.gif />
+           <img src=https://github.com/who909/WordPress-vs.-Kali/blob/baa3924833f64f5de23616c05b5bb381471c76ae/User%20Enumeration.gif />
   - [X] Steps to recreate: 
              Enter the login page.
              <img src=User Enumeration.jpg/>
