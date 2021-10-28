@@ -23,7 +23,7 @@ Time spent: 5 hours spent in total
        Post the comment and enjoy 
              <img src=xss3.jpg />
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+           <img src=xsscode.jpg />
 ### 2. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
