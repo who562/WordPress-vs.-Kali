@@ -6,8 +6,8 @@ Time spent: 5 hours spent in total
 
 ## Pentesting Report
 
-### 1. (Required) Wordpress < 5.1.1 CVE-2019-9787: Cross-Site Request Forgery (CSRF)
-  - [ ] Summary: 
+### 1. (Required) Wordpress < 5.1.1/ CVE-2019-9787: Cross-Site Request Forgery (CSRF)
+  - [X] Summary: 
     - Vulnerability types: XSS
     - Tested in version: 4.0
     - Fixed in version: 5.1.1
